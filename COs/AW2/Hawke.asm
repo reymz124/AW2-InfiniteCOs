@@ -25,7 +25,7 @@
 	setCOPowerCost          cohawke,5
 	setCOSuperCost          cohawke,9
 	
-	setCOAllStat		coHawke,10,0,0,0
+	setCOAllStat		coHawke,10,10,0,0
 	
 	setCOPowerASM		coHawke,COPowerBlackWave
 	setCOSuperASM		coHawke,COPowerBlackStorm
