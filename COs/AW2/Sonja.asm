@@ -29,12 +29,17 @@
 
 	setCOd2dVision		cosonja,1
 	setCOd2dBadLuck		cosonja,10
-	setCOd2dCounter		cosonja,50
+	setCOd2dCounter		cosonja,25
+        setCOd2dTerrainStarReduction 		cosonja,1
+
 	setCOPowerVision	cosonja,2
 	setCOPowerBadLuck	cosonja,10
-	setCOPowerCounter	cosonja,50
+	setCOPowerCounter	cosonja,25
+        setCOPowerCounter       cosonja,2
 	setCOSuperVision	cosonja,2
 	setCOSuperBadLuck	cosonja,10
+	setCOSuperTerrainStarReduction 		cosonja,3
+	setCOSuperAllStat 	cosonja,10,0,0,0
 	
 	setCOPowerASM		cosonja,COPowerEnhancedVisionFade
 	setCOSuperASM		cosonja,COPowerEnhancedVisionFade
