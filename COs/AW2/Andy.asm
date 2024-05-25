@@ -24,7 +24,8 @@
 
 	setCOPowerCost          coandy,3
 	setCOSuperCost          coandy,6
-	
+
+        setCOPowerAllStat       coAndy,10,0,0,0
 	setCOSuperAllStat	coAndy,20,0,1,0
 	
 	setCOGFXPowerFX         coandy,COPEffectHealTwoHP
