@@ -30,11 +30,11 @@
 	setCOPowerMove		codrake, MovementChartClear,MovementChartSnow,MovementChartClear
 	setCOSuperMove		codrake, MovementChartClear,MovementChartSnow,MovementChartClear
 	
-	setCOD2DNavyStat	coDrake,0,10,1,0
+	setCOD2DNavyStat	coDrake,15,15,1,0
 	setCOD2DAirStat		coDrake,-30,0,0,0
-	setCOPowerNavyStat	coDrake,0,10,1,0
+	setCOPowerNavyStat	coDrake,15,15,1,0
 	setCOPowerAirStat	coDrake,-30,0,0,0
-	setCOSuperNavyStat	coDrake,0,10,1,0
+	setCOSuperNavyStat	coDrake,15,15,1,0
 	setCOSuperAirStat	coDrake,-30,0,0,0
 
 	setCOPowerASM		coDrake,COPowerTsunami
