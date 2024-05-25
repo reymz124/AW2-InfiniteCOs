@@ -26,9 +26,8 @@
 	setCOD2DMove		coolaf, MovementChartClear,MovementChartClear,MovementChartSnow
 	setCOPowerMove		coolaf, MovementChartClear,MovementChartClear,MovementChartSnow
 	setCOSuperMove		coolaf, MovementChartClear,MovementChartClear,MovementChartSnow
-	setCOD2DSnowFirepower	coolaf,20
-	setCOPowerSnowFirepower	coolaf,20
-	setCOSuperSnowFirepower	coolaf,20
+	setCOD2DSnowDirectDefense	coolaf,25
+        setCOD2DSnowIndirectDefense     coolaf,25
 
 
 	setCOPowerASM		coolaf,COPowerExtendedBlizzard
