@@ -23,9 +23,9 @@
 	setCOSuperCost          cojess,6
 	
 	setCOAllStat		coJess,-10,0,0,0
-	setCOD2DLandStat	coJess,10,0,0,0
-	setCOPowerLandStat	coJess,30,0,1,0
-	setCOSuperLandStat	coJess,50,0,2,0
+	setCOD2DLandStat	coJess,15,15,0,0
+	setCOPowerLandStat	coJess,30,15,1,0
+	setCOSuperLandStat	coJess,50,15,2,1
 
 	setCOGFXPowerFX         cojess,COPEffectResupplyUnit
 	setCOGFXSuperFX         cojess,COPEffectResupplyUnit
