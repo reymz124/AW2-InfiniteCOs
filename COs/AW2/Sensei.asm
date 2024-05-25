@@ -28,13 +28,13 @@
 	setCOD2DTransportStat	coSensei,0,0,1,0
 	setCOD2DUnitStat	coSensei,Unit_BattleCopter,50,0,0,0
 	setCOPowerSoldierStat	coSensei,40,0,0,0
-	setCOPowerAirStat	coSensei,0,0,0,0
+	setCOPowerAirStat	coSensei,10,0,0,0
 	setCOPowerTransportStat	coSensei,0,0,1,0
 	setCOPowerUnitStat	coSensei,Unit_BattleCopter,75,0,0,0
 	setCOSuperSoldierStat	coSensei,40,0,0,0
-	setCOSuperAirStat	coSensei,0,0,0,0
+	setCOSuperAirStat	coSensei,15,0,0,0
 	setCOSuperTransportStat	coSensei,0,0,1,0
-	setCOSuperUnitStat	coSensei,Unit_BattleCopter,75,0,0,0
+	setCOSuperUnitStat	coSensei,Unit_BattleCopter,90,0,0,0
 
 	setCOPowerASM		coSensei,COPowerCopterCommand
 	setCOSuperASM		coSensei,COPowerAirborneAssault
