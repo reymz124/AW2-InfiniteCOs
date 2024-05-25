@@ -26,8 +26,8 @@
 	setCOPowerCost          coadder,2
 	setCOSuperCost          coadder,5
 	
-	setCOPowerAllStat	coAdder,0,0,1,0
-	setCOSuperAllStat	coAdder,0,0,2,0
+	setCOPowerAllStat	coAdder,2.5,2.5,1,0
+	setCOSuperAllStat	coAdder,5,5,2,0
 
 	setCOAIPowerRange       coadder,35
 	setCOAIPowerTrigger     coadder,95	
