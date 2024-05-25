@@ -26,11 +26,11 @@
 	setCOSuperCost          coeagle,9
 	
 	setCOD2DNavyStat	coEagle,-30,0,0,0
-	setCOD2DAirStat		coEagle,15,10,0,0
+	setCOD2DAirStat		coEagle,20,10,0,0
 	setCOPowerNavyStat	coEagle,-30,0,0,0
-	setCOPowerAirStat	coEagle,15,10,0,0
+	setCOPowerAirStat	coEagle,30,30,0,0
 	setCOSuperNavyStat	coEagle,-30,0,0,0
-	setCOSuperAirStat	coEagle,15,10,0,0
+	setCOSuperAirStat	coEagle,30,30,0,0
 	
 	setCOd2dAbilities	coeagle,SpecialAerialFuelSaver
 	setCOPowerAbilities	coeagle,SpecialAerialFuelSaver
