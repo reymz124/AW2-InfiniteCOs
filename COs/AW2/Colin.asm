@@ -28,7 +28,9 @@
 	setCOAllStat		coColin,-10,0,0,0
 	setCOd2dPrice		coColin,-20
 	setCOPowerPrice		coColin,-20
+        setCOPowerAllStat       coColin,0,0,0,0
 	setCOSuperPrice		coColin,-20
+        setCOSuperAllStat       coColin,0,0,0,0
 	
 	setCOPowerASM		coColin,COPowerGoldRush
 	setCOGFXSuperType       cocolin,COPowerTypePowerOfMoney
