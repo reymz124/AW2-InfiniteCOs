@@ -23,18 +23,18 @@
 	setCOPowerCost          cosami,3
 	setCOSuperCost          cosami,8
 	
-	setCOD2DSoldierStat	coSami,30,0,0,0
+	setCOD2DSoldierStat	coSami,30,30,0,0
 	setCOD2DDirectStat	coSami,-10,0,0,0
-	setCOD2DTransportStat	coSami,0,0,1,0
-	setCOPowerSoldierStat	coSami,50,0,1,0
+	setCOD2DTransportStat	coSami,0,30,1,0
+	setCOPowerSoldierStat	coSami,50,50,1,0
 	setCOPowerDirectStat	coSami,-10,0,0,0
-	setCOPowerTransportStat	coSami,0,0,1,0
-	setCOSuperSoldierStat	coSami,80,0,2,0
+	setCOPowerTransportStat	coSami,0,30,1,0
+	setCOSuperSoldierStat	coSami,80,80,2,0
 	setCOSuperDirectStat	coSami,-10,0,0,0
-	setCOSuperTransportStat	coSami,0,0,1,0
+	setCOSuperTransportStat	coSami,0,30,1,0
 	
 	setCOd2dCapture		coSami,50
-	setCOPowerCapture	coSami,50
+	setCOPowerCapture	coSami,75
 	setCOSuperCapture	coSami,2000
 	
 	setCOGFXPowerRule       cosami,COPCheckSoldierClass
